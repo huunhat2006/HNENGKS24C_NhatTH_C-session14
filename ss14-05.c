@@ -5,7 +5,7 @@ int main()
 {  
 	char chuoi[100]="xin chao moi nguoi minh la nhat";
 	int n = strlen(chuoi);
-	int count=0; 
+	int count=1; 
 	
 	for(int i=0;i<n;i++) {
 		if(chuoi[i]==' '){

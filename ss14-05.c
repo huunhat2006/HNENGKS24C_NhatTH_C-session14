@@ -9,7 +9,7 @@ int main()
 	
 	for(int i=0;i<n;i++) {
 		if(chuoi[i]==' '){
-	       count++;
+	        count++;
 		}
 	}
 	printf("Chuoi co %d tu",count);
